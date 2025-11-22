@@ -1,2 +1,15 @@
 # pipeline-etl-integrado
  Bootcamp Business Intelligence - Instituto Localiza
+
+
+ ## Visualização
+
+A visualização do projeto foi feita no Power BI e reúne os principais indicadores relacionados à redução de gordura corporal. O dashboard inclui:
+
+- Filtros interativos: gênero, nível de experiência e idade
+- Principais indicadores: média de percentual de gordura, média de IMC e quantidade de participantes
+- Gráficos comparativos por tipo de dieta, tipo de treino e frequência semanal
+- Gráfico de correlação entre percentual de gordura e IMC
+- Caixa de perguntas para explorar os dados de forma dinâmica
+
+
