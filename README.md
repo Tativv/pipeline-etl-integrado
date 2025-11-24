@@ -71,7 +71,7 @@ Planejamento - Luana
 
 Desenvolvimento - Pamela, Ingrid e Gisela;
 
-Visualização - Vanelle, Vanessa;
+Visualização - Vanelle, Vanessa, Bruna;
 
 Documentação - Francielle;
 
