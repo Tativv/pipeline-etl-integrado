@@ -92,7 +92,7 @@ python src/run_etl.py
 
 ## 📚 Tecnologias Utilizadas
 
-* Python (pandas, numpy)
+* Python
 * SQLite
 * Power BI
 * Git / GitHub
