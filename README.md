@@ -61,8 +61,8 @@ A documentação detalhada do dashboard está no diretório `powerbi/` do projet
 
 Uma apresentação resumida foi criada para facilitar a compreensão geral do projeto.
 
-Arquivo do vídeo: pasta `apresentacao_video_relatorio/`
-Versão online: https://www.youtube.com/watch?v=IZ1EwzW2Spk
+* Arquivo do vídeo: pasta `apresentacao_video_relatorio/`
+* Versão online: https://www.youtube.com/watch?v=IZ1EwzW2Spk
 
 ---
 
